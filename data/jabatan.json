@@ -1,0 +1,362 @@
+[
+    {
+        "id": 124,
+        "kode_jabatan": "31",
+        "Jabatan": "Ketua",
+        "tingkat": "Tingkat Universitas",
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 125,
+        "kode_jabatan": "31",
+        "Jabatan": "Wakil Ketua/ Sekretaris",
+        "tingkat": "Tingkat Universitas",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 126,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota",
+        "tingkat": "Tingkat Universitas",
+        "sks": 1.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 127,
+        "kode_jabatan": "31",
+        "Jabatan": "Ketua",
+        "tingkat": "Tingkat Fakultas",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 128,
+        "kode_jabatan": "31",
+        "Jabatan": "Wakil Ketua/ Sekretaris",
+        "tingkat": "Tingkat Fakultas",
+        "sks": 1.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 129,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota",
+        "tingkat": "Tingkat Fakultas",
+        "sks": 0.75,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 130,
+        "kode_jabatan": "31",
+        "Jabatan": "Ketua",
+        "tingkat": "Tingkat Jurusan/Prodi/ Tingkat Unit Kerja",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 131,
+        "kode_jabatan": "31",
+        "Jabatan": "Wakil Ketua/ Sekretaris",
+        "tingkat": "Tingkat Jurusan/Prodi/ Tingkat Unit Kerja",
+        "sks": 1.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 132,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota",
+        "tingkat": "Tingkat Jurusan/Prodi/ Tingkat Unit Kerja",
+        "sks": 0.75,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 133,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Pengelola BLU UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 134,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Implementasi Tarif Layanan UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 135,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Panitia Serfikasi Dosen",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 0.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 136,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Implementasi Remunerasi UNM\n                ",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 137,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Pengelola Pembelajaran Daring dan Aplikasi Syam-OK di Lingkungan UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 138,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Penyusun Dokumen Perguruan Tinggi Badan Hukum (PTNBH) UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 5.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 139,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Pelaksana Program Merdeka Belajar Kampus Merdeka UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 5.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 140,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Manajemen Remunerasi UNM",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 6.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 141,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota Tim Transfer Kredit Internasional",
+        "tingkat": "Menjadi Anggota Kelompok Kerja (Task Force) Tingkat Universitas",
+        "sks": 4.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 142,
+        "kode_jabatan": "31",
+        "Jabatan": "Ketua",
+        "tingkat": "Tim Pengelola Data Remunerasi Tingkat Fakultas/Unit",
+        "sks": 4.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 143,
+        "kode_jabatan": "31",
+        "Jabatan": "Sekretaris",
+        "tingkat": "Tim Pengelola Data Remunerasi Tingkat Fakultas/Unit",
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 144,
+        "kode_jabatan": "31",
+        "Jabatan": "Anggota",
+        "tingkat": "Tim Pengelola Data Remunerasi Tingkat Fakultas/Unit",
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 145,
+        "kode_jabatan": "32",
+        "Jabatan": "Ketua",
+        "tingkat": null,
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 146,
+        "kode_jabatan": "32",
+        "Jabatan": "Wakil Ketua/ Sekretaris",
+        "tingkat": null,
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 147,
+        "kode_jabatan": "32",
+        "Jabatan": "Anggota",
+        "tingkat": null,
+        "sks": 1.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 148,
+        "kode_jabatan": "33",
+        "Jabatan": "Ketua",
+        "tingkat": null,
+        "sks": 4.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 149,
+        "kode_jabatan": "33",
+        "Jabatan": "Wakil Ketua/ Sekretaris",
+        "tingkat": null,
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 150,
+        "kode_jabatan": "33",
+        "Jabatan": "Anggota",
+        "tingkat": null,
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 151,
+        "kode_jabatan": "34",
+        "Jabatan": "Lama waktu 1 sampai 2 hari",
+        "tingkat": null,
+        "sks": 0.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 152,
+        "kode_jabatan": "34",
+        "Jabatan": "Lama waktu 3 hari atau lebih",
+        "tingkat": null,
+        "sks": 1.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 153,
+        "kode_jabatan": "35",
+        "Jabatan": "Lama waktu 1 sampai 2 hari",
+        "tingkat": null,
+        "sks": 1.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 154,
+        "kode_jabatan": "35",
+        "Jabatan": "Lama waktu 3 hari atau lebih",
+        "tingkat": null,
+        "sks": 1.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 155,
+        "kode_jabatan": "36",
+        "Jabatan": "Lama waktu 1 sampai 2 hari",
+        "tingkat": null,
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 156,
+        "kode_jabatan": "36",
+        "Jabatan": "Lama waktu 3 hari atau lebih",
+        "tingkat": null,
+        "sks": 3.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 157,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya lebih dari 960 jam",
+        "tingkat": null,
+        "sks": 12.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 158,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 641 - 960 jam",
+        "tingkat": null,
+        "sks": 8.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 159,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 481  - 640 jam",
+        "tingkat": null,
+        "sks": 6.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 160,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 161 - 480 jam",
+        "tingkat": null,
+        "sks": 2.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 161,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 81 - 160 jam",
+        "tingkat": null,
+        "sks": 1.00,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 162,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 30 - 80 jam",
+        "tingkat": null,
+        "sks": 0.50,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 163,
+        "kode_jabatan": "37",
+        "Jabatan": "Lamanya antara 10 - 30 jam",
+        "tingkat": null,
+        "sks": 0.20,
+        "created_at": null,
+        "updated_at": null
+    }
+]

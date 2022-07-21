@@ -1,0 +1,42 @@
+[
+    {
+        "Periode_ID": 6,
+        "Nama_Periode": "Januari - Juni 2020",
+        "Tahun_Ajaran": "2019-2020",
+        "Semester": "2",
+        "Aktif": "0",
+        "jumlah_hari_kerja": 120,
+        "tgl_buka": null,
+        "tgl_tutup": null
+    },
+    {
+        "Periode_ID": 7,
+        "Nama_Periode": "Juli - Desember 2020",
+        "Tahun_Ajaran": "2020-2021",
+        "Semester": "1",
+        "Aktif": "0",
+        "jumlah_hari_kerja": 117,
+        "tgl_buka": null,
+        "tgl_tutup": null
+    },
+    {
+        "Periode_ID": 8,
+        "Nama_Periode": "Januari - Juni 2021",
+        "Tahun_Ajaran": "2020-2021",
+        "Semester": "2",
+        "Aktif": "1",
+        "jumlah_hari_kerja": 120,
+        "tgl_buka": "2021-06-24 00:59:35",
+        "tgl_tutup": "2021-07-07 00:30:43"
+    },
+    {
+        "Periode_ID": 9,
+        "Nama_Periode": "Juli - Desember 2020",
+        "Tahun_Ajaran": "2021-2022",
+        "Semester": "1",
+        "Aktif": "0",
+        "jumlah_hari_kerja": 117,
+        "tgl_buka": null,
+        "tgl_tutup": null
+    }
+]
